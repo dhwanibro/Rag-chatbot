@@ -113,3 +113,12 @@ Type `exit` to quit the session.
 ## **Contributing**
 
 We welcome contributions! If you have suggestions or improvements, feel free to create an issue or submit a pull request.  
+License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software under the following conditions:
+
+The original copyright notice and permission notice must be included in all copies or substantial portions of the software.
+This software is provided "as-is," without warranty of any kind, express or implied.
+For full details, see the LICENSE file included in this repository.
